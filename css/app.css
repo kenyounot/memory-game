@@ -18,7 +18,8 @@ body {
 
 body {
     background: #ffffff url('../img/wave.png'); /* Background pattern from Subtle Patterns */
-    font-family: 'Coda', cursive;
+    font-family: 'Bungee Shade', cursive;
+    color: #aa7ecd;
 }
 
 .container {
@@ -29,8 +30,10 @@ body {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-size: 3em;
+    font-family: 'Bungee Shade', sans-serif;
     font-weight: 300;
+    color: #aa7ecd;
 }
 
 /*
